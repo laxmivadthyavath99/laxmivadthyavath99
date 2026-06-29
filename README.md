@@ -67,10 +67,13 @@ Built responsive React applications and worked on improving UI and user experien
 
 Portfolio: https://laxmivadthyavath99.github.io/
 
+
+Email: [laxmi.aitech@gmail.com](mailto:laxmi.aitech@gmail.com)
+
 GitHub: https://github.com/laxmivadthyavath99
 
 LinkedIn: https://linkedin.com/in/laxmi-vadthyavath-41a89528b
 
 LeetCode: https://leetcode.com/u/laxmivadthyavath99
 
-Email: [laxmi.aitech@gmail.com](mailto:laxmi.aitech@gmail.com)
+HackerRank: https://www.hackerrank.com/profile/LAXMIVADTHYAVATH
