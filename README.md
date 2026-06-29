@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**laxmivadthyavath99/laxmivadthyavath99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Laxmi Vadthyavath
 
-Here are some ideas to get you started:
+🎓 Final Year Computer Science Student @ CBIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Ex AI Intern @ Oorwin Labs
+
+💻 Full Stack Developer | AI Enthusiast
+
+---
+
+## 👋 About Me
+
+I'm a passionate software developer interested in AI, Machine Learning, Full Stack Development, and Automation.
+
+I enjoy building real-world products using Python, React, FastAPI, MongoDB, and modern AI technologies.
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: https://linkedin.com/in/...
+- Portfolio: https://laxmivadthyavath99.github.io/
+- Email: laxmi.aitech@gmail.com
+
+---
+
+## 🚀 Highlights
+
+- 🤖 Ex AI Intern @ Oorwin Labs
+- 💻 Built 10+ Full Stack & AI Projects
+- 🧠 AI Beauty Product Comparator
+- 📈 Real Estate Investment AI System
+- 🏆 CBIT Student
