@@ -6,7 +6,7 @@
 
 🤖 Ex AI Intern @ Oorwin Labs
 
-💻 Full Stack Developer | AI Enthusiast
+ML Enthusiast | Software Engineer | Full-Stack Developer | AI Engineer | Open to Software Engineering, AI, Backend & Product Engineering Roles
 
 ---
 
